@@ -1,30 +1,19 @@
 # Sistema de Gerenciamento de Tarefas Integrado com Google Sheets e Docker
 
-
+```
 task-manager/
-
 ├── backend/
-
 │   ├── app.py
-
 │   ├── requirements.txt
-
 │   ├── Dockerfile
-
 ├── frontend/
-
 │   ├── public/
-
 │   ├── src/
-
 │   ├── Dockerfile
-
 │   ├── package.json
-
 ├── docker-compose.yml
-
 ├── README.md
-
+```
 
 
 Visão Geral
